@@ -1,0 +1,7 @@
+conda activate tf
+cd..
+cd..
+cd..
+venv\Scripts\activate
+cd Documents\GitHub\cpw_chatbot
+python main.py
